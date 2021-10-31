@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(12, 11, 11) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    margin:auto;
+
+    
+
+}
+#title{
+    margin-bottom: 15px;
+    color:blanchedalmond;
+    text-shadow: cornflowerblue;
+    text-align: center;
+}
+.foto{
+    border: thin solid;
+    margin: 0px 10px 10px 0;
+    border-radius: 50px;
+}
+.post{
+    text-align: center;
+    border: 5px dashed rgb(231, 225, 225);
+    padding:0px;
+    margin-top: 0px;
+    color:blanchedalmond
+}
+.post_img{
+   padding-right: 15px;
+   padding-left: 15px;
+}
+.subtitle{
+    color: blanchedalmond;
+    padding:0px;
+    margin-top: 0px;
+}
+.pa{
+    text-align: center;
+   font-style: oblique;
+   color: blanchedalmond; 
+}
+.post_content{
+   padding-left: 15px;
+   padding-right: 15px;
+   text-align: left;
+   font-style: oblique;
+   color: blanchedalmond;
+}
+.post_img{
+
+    width: 100;
+    height: auto;
+}
+
+.contacts_list{
+    text-align: center;
+    list-style-type: none;
+    font-style: oblique;
+    color: blanchedalmond;
+    text-shadow: blanchedalmond;
+    outline: none;
+}
+.contacts_list li a{
+    color:cornsilk;
+    text-decoration: none;
+}
