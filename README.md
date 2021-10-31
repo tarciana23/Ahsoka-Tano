@@ -1,3 +1,3 @@
 # HTML-CSS3-JAVASCRIPT👩‍💻
 
-Neste repositório irei colocar os códigos que desenvolvi no Bootcamp HTML Developer.
+Neste repositório fiz uma página simples com HTML e css para exercitar meus conhecimentos aprendidos até o momento.
